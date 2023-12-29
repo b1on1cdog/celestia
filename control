@@ -1,0 +1,9 @@
+Package: com.panyolsoft.celestia
+Name: celestia
+Version: 0.2
+Architecture: iphoneos-arm
+Description: control your broken phone using hardware buttons
+Maintainer: Josue Alonso (BlueDog)
+Author: Josue Alonso (BlueDog)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)

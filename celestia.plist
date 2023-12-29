@@ -1,0 +1,14 @@
+{
+	Filter = {
+		Executables = (
+			backboardd,
+			vot,
+			assistivetouchd,
+		);
+		Bundles = (
+			"com.apple.managedconfiguration",
+			"com.apple.UIKit",
+			"com.apple.VoiceOverTouch",
+		);
+	};
+}
